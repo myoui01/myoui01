@@ -3,7 +3,7 @@
 - 🔭 Estudante de Ciência da Computação  
 - 🌱 HTML, CSS, Javascript, C# e Python
 - 👯 A procura de conhecimento e novas experiências na área dev
-- 😄 Pronouns: she/her
+- 😄 Ela/dela
 
   ##
   
