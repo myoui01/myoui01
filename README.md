@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bem vindo 👋
 
 - 🔭 Estudante de Ciência da Computação  
 - 🌱 HTML, CSS, Javascript, C# e Python
