@@ -9,25 +9,13 @@
   
 Referências Front-end:
 🌐 MDN Web Docs
-🌐 W3C
-🌐 Can I use
 🌐 CSS-Tricks
-
-Repositórios recomendados:
-💻 WoMakersCode / Front-end Challenges
-💻 Felipe Fialho / Frontend Challenges
-💻 Felipe Fialho / Frontend Feed
-
-Livros:
-📘 Livros de Front-end - Casa do Código
-📘 Livros do Maujor
 
 Sites de consulta:
 🔗 Frontend Developer Roadmap
 🔗 Site do Maujor
 🔗 Stack Overflow em Português
 🔗 W3Schools
-
 
 Mariana Maques | https://www.linkedin.com/in/mariana-marques-sampaio-b40436227/
 
