@@ -13,7 +13,6 @@ Referências Front-end:
 
 Sites de consulta:
 🔗 Frontend Developer Roadmap
-🔗 Site do Maujor
 🔗 Stack Overflow em Português
 🔗 W3Schools
 
