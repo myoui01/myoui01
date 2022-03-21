@@ -6,15 +6,6 @@
 - 😄 Ela/dela
 
   ##
-  
-Referências Front-end:
-🌐 MDN Web Docs
-🌐 CSS-Tricks
-
-Sites de consulta:
-🔗 Frontend Developer Roadmap
-🔗 Stack Overflow em Português
-🔗 W3Schools
 
 Mariana Maques | https://www.linkedin.com/in/mariana-marques-sampaio-b40436227/
 
