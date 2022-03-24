@@ -7,7 +7,7 @@
 
   ##
 
-Mariana Maques | https://www.linkedin.com/in/mariana-marques-sampaio-b40436227/
+Mariana Maques | https://www.linkedin.com/in/mariana-marques-b40436227/
 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
