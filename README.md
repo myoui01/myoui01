@@ -15,9 +15,6 @@
   
 <br>
   
-  
-### Mariana Marques ♜ https://www.linkedin.com/in/mariana-marques-b40436227/
-  
 <div>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
