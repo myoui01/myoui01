@@ -1,8 +1,8 @@
 ### Bem vindo 👋
 
 - 🔭 Estudante de Ciência da Computação  
-- 🌱 HTML, CSS, Javascript, Typescript, PHP e Java
-- 👯 A procura de conhecimento e novas experiências na área dev
+- 🌱 HTML, CSS, Javascript, Typescript e Vue (Framework)
+- 👯 PHP e Java
 - 😄 Ela/dela
 
   ##
