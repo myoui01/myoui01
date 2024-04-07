@@ -1,8 +1,9 @@
 ### Bem vindo 👋
 
 -  Estudante de Ciência da Computação  
--  HTML, CSS, Javascript, Typescript e VueJs
--  PHP e Java
+-  HTML, CSS, Javascript, Typescript e React
+-  NodeJs
+-  React Native <3
 -  Ela/dela
 
   ##
