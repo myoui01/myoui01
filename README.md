@@ -1,7 +1,7 @@
 ### Bem vindo 👋
 
 -  Estudante de Ciência da Computação  
--  HTML, CSS, Javascript, Typescript e React
+-  HTML, CSS, Javascript, Typescript, Angular e React
 -  NodeJs
 -  React Native <3
 -  Ela/dela
