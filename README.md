@@ -2,8 +2,7 @@
 
 -  Estudante de Ciência da Computação  
 -  HTML, CSS, Javascript, Typescript, Angular e React
--  NodeJs
--  React Native <3
+-  NodeJs, PHP e Java
 -  Ela/dela
   <!-- 
 <div>
