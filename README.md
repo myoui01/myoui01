@@ -67,6 +67,24 @@ My name is Mariana and I'm 20 years old and currently studying Computer Science.
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"
+        width="48"
+        height="48"
+        alt="Angular"
+      />
+      <br /><strong>Angular</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"
+        width="48"
+        height="48"
+        alt="Ionic"
+      />
+      <br /><strong>Angular</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
         width="48"
         height="48"
@@ -129,24 +147,6 @@ My name is Mariana and I'm 20 years old and currently studying Computer Science.
         alt="Firebase"
       />
       <br /><strong>Firebase</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg"
-        width="48"
-        height="48"
-        alt="Playwright"
-      />
-      <br /><strong>Playwright</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        width="48"
-        height="48"
-        alt="Docker"
-      />
-      <br /><strong>Docker</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
