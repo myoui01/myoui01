@@ -94,14 +94,3 @@ My name is Mariana and I'm 20 years old and currently studying Computer Science.
     </td>
   </tr>
 </table>
-
-# 📈 Stats 
-
-![](https://komarev.com/ghpvc/?username=myoui01)
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=myoui01&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=myoui01&theme=vue-dark&hide_border=true"
-/>
