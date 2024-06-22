@@ -5,7 +5,7 @@ My name is Mariana and I'm 20 years old and currently studying Computer Science.
 </div>
 <br/>
 <a href="mailto:mariana.msamp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="[https://www.linkedin.com/in/mariana-marques-b40436227/](https://www.linkedin.com/in/mariana-marques-dev/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/mariana-marques-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Tools
 
