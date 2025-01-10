@@ -76,12 +76,12 @@ My name is Mariana and I'm currently studying Computer Science. Over the past 2 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
         width="48"
         height="48"
-        alt="Firebase"
+        alt="Java"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>Java</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
