@@ -85,7 +85,7 @@ My name is Mariana and I'm currently studying Computer Science. Over the past 3 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/postgresql-original.svg"
         width="48"
         height="48"
         alt="MongoDB"
