@@ -90,7 +90,7 @@ My name is Mariana and I'm currently studying Computer Science. Over the past 3 
         height="48"
         alt="MongoDB"
       />
-      <br /><strong>Postgre SQL</strong>
+      <br /><strong>Postgre</strong>
     </td>
   </tr>
 </table>
