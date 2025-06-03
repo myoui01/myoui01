@@ -1,12 +1,3 @@
-# 👋 Hey there
-
-<div align="justify">
-Passionate about technology and innovation, I am always looking to expand my knowledge in different areas of development and technology as a whole. My experience includes Business Intelligence, IoT, and Fullstack Development, where I have worked on web and mobile applications, process automation, and data analysis.
-</div>
-<br/>
-<a href="mailto:mariana.msamp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/mariana-marques-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-
 # 🔧 Technologies & Tools
 
 <table>
